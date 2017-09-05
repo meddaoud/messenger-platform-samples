@@ -1,6 +1,6 @@
 {
     "appSecret": "9124276375091ed2967787d3ad26e4a8",
     "pageAccessToken": "EAAV2SPNdsF0BAK1L5MvRu08SWeZAhZAmYi7a2tYQuFtCOPGnI4bBYAZAwKA4xVZAwRz2PjPtvTsNnqDhhvUvYAVswjcNEJcJPNabxpapumQIFmBeBAJWPltudwtjOkX7DQk2mA8wqBZAtHgkEZAWzppDoRcIh7ZCGg6xUd3ZBRZBjMdQn217ZCPQjN",
-    "validationToken": "df85694e54584ec203d201b3e359aa9f",
-    "serverURL": "https://api.recast.ai/connect/v1/webhook/5f030bfe-1417-4a61-92dd-846f9a4de12d"
+    "validationToken": "7b38b88e159645c34bcdb90f77534738",
+    "serverURL": "https://run.recast.ai/meddaoud-talking-bot-fr"
 }
